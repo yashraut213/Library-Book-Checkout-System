@@ -1,0 +1,4 @@
+Book,101,The Hobbit,Tolkien
+DVD,201,Inception,148
+Book,102,Dune,Herbert
+DVD,202,Spirited Away,125
